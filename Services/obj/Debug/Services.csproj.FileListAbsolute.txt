@@ -1,0 +1,15 @@
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Services.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Services.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Autofac.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Model.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Repository.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Model.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Repository.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\Autofac.xml
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\obj\Debug\Services.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\obj\Debug\Services.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\EntityFramework.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\EntityFramework.xml
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Services\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,6 @@
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\bin\Debug\Model.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\bin\Debug\Model.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\obj\Debug\Model.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\obj\Debug\Model.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Model\bin\Debug\Model.dll.config

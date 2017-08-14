@@ -1,0 +1,12 @@
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\Repository.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\Repository.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\Model.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\Model.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\obj\Debug\Repository.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\obj\Debug\Repository.pdb
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\Repository.dll.config
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Влад\Documents\GitHub\TestWorkWpfEntity\TestWorkWpfEntity\Repository\bin\Debug\EntityFramework.SqlServer.xml
